@@ -15,7 +15,7 @@ We consider the Flappy Bird Video Game, and conduct different experiments to get
 Team Members:
 
 - Sree Lakshmi Addepalli(sla410)\
-- Sree Gowri Addepali(sga297)
+- Sree Gowri Addepalli(sga297)
 
 
 ## Referencing:
